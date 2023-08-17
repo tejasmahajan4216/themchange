@@ -1,7 +1,7 @@
 import React from "react";
 
-function inbox() {
+function Inbox() {
   return <div>inbox</div>;
 }
 
-export default inbox;
+export default Inbox;
